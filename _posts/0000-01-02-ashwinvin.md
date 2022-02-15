@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Github!"
 ---
-Your text
-Use the left arrow to go back!
+yeah so 
+github told me to edit lol
